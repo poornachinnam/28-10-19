@@ -2,23 +2,23 @@
 E-mail:  poornachinnam25@gmail.com  
 
 
-SRI HARI                                                                   Mob: 7981153407 
+SRI HARI         IN THE EVG                                                          Mob: 7981153407 
 
 SUMMARY
-•	4.1 years of experience in Infosys Ltd which majorly consists of working with Cisco Systems client in Testing and Automating for the products CER (Cisco Emergency Responder), CUCM (Call Manager).
-•	Profound experience in testing (Manual and Automation) of various web applications for Cisco Telecom Products. 
-•	Experience in Core Java with good knowledge on Object Oriented Programming (OOP) concepts.
-•	Experience in Agile methodology with daily scrum activities.
-•	Extensive experience in testing Web Based Applications and automating the test cases using Selenium, Java, TestNG.
-•	Proficient in creating test cases and test plan for manual testing.
-•	Proficient in Unix/Linux operating systems.
-•	Experience in Data driven Framework used for automating scripts in the project.
-•	Knowledge on Robot Framework for automating scripts.
-•	Knowledge on core concepts of Blockchain 1, 2 and 3. 
-•	Excellent technical, communication and interpersonal skills with strong customer orientation and client interfacing skills.
-•	Expertise in Install, upgrades, backup & restores of applications.
-•	Experience in using tools like JIRA, CDETS, and RALLY which are used in various phases of Testing.
-•	Proficient in using GIT for version control.
+â€¢	4.1 years of experience in Infosys Ltd which majorly consists of working with Cisco Systems client in Testing and Automating for the products CER (Cisco Emergency Responder), CUCM (Call Manager).
+â€¢	Profound experience in testing (Manual and Automation) of various web applications for Cisco Telecom Products. 
+â€¢	Experience in Core Java with good knowledge on Object Oriented Programming (OOP) concepts.
+â€¢	Experience in Agile methodology with daily scrum activities.
+â€¢	Extensive experience in testing Web Based Applications and automating the test cases using Selenium, Java, TestNG.
+â€¢	Proficient in creating test cases and test plan for manual testing.
+â€¢	Proficient in Unix/Linux operating systems.
+â€¢	Experience in Data driven Framework used for automating scripts in the project.
+â€¢	Knowledge on Robot Framework for automating scripts.
+â€¢	Knowledge on core concepts of Blockchain 1, 2 and 3. 
+â€¢	Excellent technical, communication and interpersonal skills with strong customer orientation and client interfacing skills.
+â€¢	Expertise in Install, upgrades, backup & restores of applications.
+â€¢	Experience in using tools like JIRA, CDETS, and RALLY which are used in various phases of Testing.
+â€¢	Proficient in using GIT for version control.
 
 TECHNICAL SKILLS
 Operating Systems	Linux, Windows
@@ -64,14 +64,14 @@ Role:- Test Engineer		                                         Duration: October
                                                                               PROJECT 1				
 CER(Cisco Emergency Responder) is a Web Application of CISCO which works for Emergency call processing issues, CUCM is a product which helps in providing the phones to get registered with CER. CER is a web application where the users will be registered and by this the information of the users will be stored with CER. When a user is in Emergency and calls for 911(Emergency no in US) and the call will be transferred to Help center (PSAP- Public Safety Answering Point) where the details will be tracked based on the registration. These details will be accurate to send the Emergency team for that particular location to help the user who is in Emergency Situation.
 Role:
-•	Working in agile methodology with daily scrums.
-•	Automating the new features based on requirement using Selenium and Core java.
-•	Writing test cases and run them to verify the functionality of the product.
-•	Responsible in running basic sanity on each build.
-•	Responsible for Feature testing and reporting bugs using JIRA.
-•	Find bugs in application and work with development to improve the application.
-•	Responsible for testing GUI functionality and Manage the test framework using Selenium and TestNG for the GUI of the product.
-•	Created test scripts using element locators and Selenium Webdriver methods.
+â€¢	Working in agile methodology with daily scrums.
+â€¢	Automating the new features based on requirement using Selenium and Core java.
+â€¢	Writing test cases and run them to verify the functionality of the product.
+â€¢	Responsible in running basic sanity on each build.
+â€¢	Responsible for Feature testing and reporting bugs using JIRA.
+â€¢	Find bugs in application and work with development to improve the application.
+â€¢	Responsible for testing GUI functionality and Manage the test framework using Selenium and TestNG for the GUI of the product.
+â€¢	Created test scripts using element locators and Selenium Webdriver methods.
 
 Client: Cisco Systems	
 Role:- Test Engineer		                                         Duration: Jan 2017 to Till date
@@ -80,14 +80,14 @@ Role:- Test Engineer		                                         Duration: Jan 201
 CUCM(Cisco Unified Communications Manager) is a Web Application of CISCO which works for handling the registered phones and processing the calls between the phones. CUCM interacts with other cisco applications like IM&P, CER, Cisco Jabber, Web-EX and helps in providing the services to them. CUCM provides the services like making audio and video calls, history of calls, messaging to the end user. It provides a cluster mode for interacting with same and different products with publisher and subscriber modes. CUCM has many components like Serviceability, Admin, 
 
 Role:
-•	Working in agile methodology with daily scrums.
-•	Automating the new features based on requirement using Selenium and Core java.
-•	Writing test cases and run them to verify the functionality of the product.
-•	Responsible in running basic sanity on each build.
-•	Responsible for Feature testing and reporting bugs using JIRA.
-•	Find bugs in application and work with development to improve the application.
-•	Responsible for testing GUI functionality and Manage the test framework using Selenium and TestNG for the GUI of the product.
-•	Created test scripts using element locators and Selenium Webdriver methods.
+â€¢	Working in agile methodology with daily scrums.
+â€¢	Automating the new features based on requirement using Selenium and Core java.
+â€¢	Writing test cases and run them to verify the functionality of the product.
+â€¢	Responsible in running basic sanity on each build.
+â€¢	Responsible for Feature testing and reporting bugs using JIRA.
+â€¢	Find bugs in application and work with development to improve the application.
+â€¢	Responsible for testing GUI functionality and Manage the test framework using Selenium and TestNG for the GUI of the product.
+â€¢	Created test scripts using element locators and Selenium Webdriver methods.
 
 
                                                                           AGILE SCRUM ACTIVITIES
